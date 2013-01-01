@@ -11,9 +11,9 @@ using namespace std;
 
 struct serverDescStruct
 {
-  char serverName[NAME_SIZE];
-	char ip[IP_SIZE];
-	int  port;
+    char serverName[NAME_SIZE];
+    char ip[IP_SIZE];
+    int  port;
 };
 
 int totalServerCount = 0;
