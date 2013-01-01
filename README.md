@@ -1,4 +1,4 @@
 SomeTask
 ========
 
-Some Code Example
+Some code snippet for take a quick look.
